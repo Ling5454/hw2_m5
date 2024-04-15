@@ -1,5 +1,6 @@
-package com.example.hw2_m5
+package com.example.hw2_m5.data.server
 
+import com.example.hw2_m5.data.models.LoveModel
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Header

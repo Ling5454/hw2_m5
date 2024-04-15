@@ -1,4 +1,4 @@
-package com.example.hw2_m5
+package com.example.hw2_m5.data.server
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
